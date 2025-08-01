@@ -1,0 +1,12 @@
+/led_panel_mine:
+  ros__parameters:
+    led_panel_: [2, 2, 2]
+
+/robot_news_station:
+  ros__parameters:
+    robot_name_: "C3PO"
+
+/my_number_publisher:
+  ros__parameters:
+    number: 8
+    timer_period: 3.0
