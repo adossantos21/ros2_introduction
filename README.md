@@ -40,3 +40,12 @@ git clone git@github.com:adossantos21/ros2_introduction.git
 
 ### OPTIONAL
 If colcon is not recognized, check if you have it installed by running: `sudo apt install python3-colcon-common-extensions`. The optional development tools in ROS2 Jazzy should have installed colcon.
+
+## Example Execution
+
+After installing, building, and sourcing your environment, run the following commands in 3 separate terminals:
+```
+ros2 launch my_robot_bringup number_app.launch.{xml,py}
+ros2 topic echo /abc/my_number
+ros2 topic echo /abc/number_count
+```
