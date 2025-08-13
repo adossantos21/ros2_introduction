@@ -35,9 +35,7 @@ git clone git@github.com:adossantos21/ros2_introduction.git
 
 `colcon build --symlink-install`
 
-**${\color{red}Remember \space to \space source \space your \space .bashrc \space after \space building. \space In \space the \space terminal, \space execute \space}$** `source ~/.bashrc` **${\color{red}\space or \space just \space open}$**
-
-**${\color{red}a \space new \space terminal \space and \space run \space your \space nodes \space or \space launch \space files.}$**
+**${\color{red}Remember \space to \space source \space your \space .bashrc \space after \space building. \space In \space the \space terminal, \space execute \space}$** `source ~/.bashrc` **${\color{red}\space or \space just \space open \space a \space new \space terminal \space and \space run \space your \space nodes \space or \space launch \space files.}$**
 
 
 ### OPTIONAL
